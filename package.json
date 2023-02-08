@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mitt": "^3.0.0",
+    "vue3-carousel": "^0.2.9"
+  }
+}
